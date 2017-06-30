@@ -7,5 +7,7 @@ EEGLAB is an interactive Matlab toolbox for processing continuous and event-rela
 ## Websites
 
 https://sccn.ucsd.edu/eeglab/index.php
+
 https://sccn.ucsd.edu/~scott/ica.html
+
 http://cognitrn.psych.indiana.edu/busey/temp/eeglabtutorial4.301/
